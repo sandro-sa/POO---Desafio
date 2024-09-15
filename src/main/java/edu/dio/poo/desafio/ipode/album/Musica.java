@@ -6,8 +6,8 @@ import javax.xml.crypto.Data;
  *
  * @author SandroAmânciodeSá
  */
-public class Musica 
-{
+public class Musica {
+    
     private String nomeMusica;
     private Album album;
     private String Genero;
